@@ -1,3 +1,5 @@
+Este documento apresenta um passo-a-passo para instalar e conectar o Jenkins (orquestrador) ao Github ! 
+
 1. Atualização do Sistema
 Antes de instalar qualquer software, é sempre uma boa prática atualizar o repositório e o sistema. Abra o terminal e execute:
 sudo apt update
